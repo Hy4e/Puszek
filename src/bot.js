@@ -7,7 +7,7 @@ const client = new Client()
 
 
 
-client.login("NzI0MzI3MzU5OTQzMTQ3NTYx.Xu-kaw.M3c0r9d6-Tq8yVX7engNPOg9SrM")
+client.login(process.env.DISCORDJS_BOT_TOKEN)
 
 var list = ["zdrapka GOLD", "przepustka do state-rp", "forum IPS (nielegalne)", "głowa bartosza misiaka", 
 "Premium do state-rp (na zawsze)", "vibrator", "Deagle (nielegalny)", "iPhone13", "niekaralność+", 'zółty krawat WiP', 
